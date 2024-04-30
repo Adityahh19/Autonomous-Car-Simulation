@@ -10,3 +10,7 @@ Key Features:
 - Generational Improvement: Evaluation and iteration for continuous navigation enhancement.
 - Scalability: Supports simultaneous spawning of multiple cars for efficient processing.
 - Data Feedback: Utilises navigation data to refine subsequent generations, enhancing performance.
+
+To run the program:
+1. Clone the repository
+2. Run the Pycar.py programme
